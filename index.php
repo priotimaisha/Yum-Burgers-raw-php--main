@@ -193,7 +193,7 @@
     </main>
 
     <footer>
-        <p class="text-center">Copyright © 2022 Hridoy Chowdhury</p>
+        <p class="text-center">Copyright © 2023 Maisha Maliha Prioti</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
